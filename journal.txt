@@ -1,3 +1,12 @@
 Author: Max Newbert
 
 Title: Paper
+
+Abstract:
+
+Introducation:
+Data:
+
+Analysis:
+
+Conclusion: 
