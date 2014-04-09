@@ -1,4 +1,4 @@
-Author: Max Newbert
+Author: Max Newbert, Andrew Armitage
 
 Title: Paper
 
@@ -9,4 +9,4 @@ Data:
 
 Analysis:
 
-Conclusion: He is awesome
+Conclusion: Andrew is awesome
