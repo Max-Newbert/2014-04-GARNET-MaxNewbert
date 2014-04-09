@@ -5,8 +5,8 @@ Title: Paper
 Abstract:Max has uncovered all of the secrets of the interweb
 
 Introducation:
-Data:
+Data: Max smells.
 
 Analysis:
 
-Conclusion: Andrew is awesome
+Conclusion: He is awesome. Sadly his personal hygiene needs some improvement.
